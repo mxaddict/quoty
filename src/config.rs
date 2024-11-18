@@ -2,12 +2,16 @@
 pub const QUOTES: &[(&str, &str)] = &[
     ("Anon (16th century)", "Fuck You!"),
     ("Anon", "Compile, wait for 20 minutes, notice a new commit, compile again."),
+    ("Anon", "Feel free to react if you're impressed."),
+    ("Anon", "I hate it when you guys don't talk."),
+    ("Anon", "In a perfect world, this would work."),
     ("Anon", "It's not easy, but it'll be easy."),
+    ("Anon", "Just give it to me."),
     ("Anon", "Pay will be in on monday."),
     ("Anon", "Programmer: A machine that turns coffee into code."),
+    ("Anon", "This text is random."),
     ("Anon", "Trust me bro."),
     ("Anon", "When I wrote this code, only God and I understood what I did. Now only God knows."),
-    ("Anon", "This text is random."),
 
     ("Alan Cooper", "If we want users to like our software, we should design it to behave like a likable person."),
     ("Alan Turing", "Sometimes it is the people no one imagines anything of, who do the things that no one can imagine."),

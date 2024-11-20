@@ -4,6 +4,7 @@ pub const QUOTES: &[(&str, &str)] = &[
     ("Anon", "Compile, wait for 20 minutes, notice a new commit, compile again."),
     ("Anon", "Feel free to react if you're impressed."),
     ("Anon", "I hate it when you guys don't talk."),
+    ("Anon", "I reserve the right to change my mind."),
     ("Anon", "In a perfect world, this would work."),
     ("Anon", "It's not easy, but it'll be easy."),
     ("Anon", "Just give it to me."),

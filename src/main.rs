@@ -47,8 +47,8 @@ fn main() {
         return;
     }
 
-    let mut thread_rng = rand::thread_rng();
-    let index = thread_rng.gen_range(0..config::QUOTES.len());
+    let mut thread_rng = rand::rng();
+    let index = thread_rng.random_range(0..config::QUOTES.len());
     let quote = config::QUOTES[index];
     let author = quote.0;
     let message = quote.1;

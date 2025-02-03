@@ -1,6 +1,6 @@
 [package]
 name = "quoty"
-version = "0.2.5"
+version = "0.2.6"
 edition = "2021"
 license = "MIT"
 description = "Simple CLI program that returns a programming quote"
@@ -11,4 +11,4 @@ categories = ["command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.5.21", features = ["derive"] }
-rand = "0.8.5"
+rand = "0.9"

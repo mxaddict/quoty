@@ -13,6 +13,7 @@ pub const QUOTES: &[(&str, &str)] = &[
     ("Anon", "This text is random."),
     ("Anon", "Trust me bro."),
     ("Anon", "When I wrote this code, only God and I understood what I did. Now only God knows."),
+    ("Anon", "Ofcourse we're saving it! It's not a \"save as\" button!"),
 
     ("Alan Cooper", "If we want users to like our software, we should design it to behave like a likable person."),
     ("Alan Turing", "Sometimes it is the people no one imagines anything of, who do the things that no one can imagine."),

@@ -1,6 +1,5 @@
 // TODO: add ability to load a config from $HOME/.config/quoty/quotes.toml
 pub const QUOTES: &[(&str, &str)] = &[
-    ("Anon (16th century)", "Fuck You!"),
     ("Anon", "Compile, wait for 20 minutes, notice a new commit, compile again."),
     ("Anon", "Feel free to react if you're impressed."),
     ("Anon", "I hate it when you guys don't talk."),

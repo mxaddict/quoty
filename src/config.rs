@@ -40,4 +40,10 @@ pub const QUOTES: &[(&str, &str)] = &[
     ("Vaxry", "Hello everyone this is YOUR daily dose of 'read the wiki'"),
     ("Vaxry", "I commit too often, people can't catch up lmao"),
     ("Yegor Bugayenk", "Quality is a product of a conflict between programmers and testers."),
+    ("Phil Karlton", "There are only two hard things in computer science: cache invalidation and naming things."),
+    ("Bill Gates", "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."),
+    ("Brian W. Kernighan", "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."),
+    ("Martin Fowler", "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."),
+    ("Alan Kay", "The best way to predict the future is to invent it."),
+    ("Anon", "Why do programmers prefer dark mode? Because light attracts bugs!"),
 ];
